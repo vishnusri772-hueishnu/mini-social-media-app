@@ -1,0 +1,33 @@
+body{
+font-family: Arial;
+background:#f2f2f2;
+text-align:center;
+}
+
+.post-box{
+margin:20px;
+}
+
+input{
+padding:10px;
+width:300px;
+}
+
+button{
+padding:10px;
+background:blue;
+color:white;
+border:none;
+}
+
+.post{
+background:white;
+padding:15px;
+margin:10px auto;
+width:400px;
+border-radius:5px;
+}
+
+.actions button{
+margin:5px;
+}
